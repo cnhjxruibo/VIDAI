@@ -8,11 +8,13 @@
 
 
 
+OUR Twitter :[VIDAI](https://x.com/VID__AI)
+
+OUR WebSite : [VIDAI](http://vidai.world/)
+
 ## About US
 
 > VIDAI: Intelligent Video-Audio Fusion Tool
-
-### OUR Twitter :[VIDAI](https://x.com/VID__AI)
 
 ### Versatile Applications
 
