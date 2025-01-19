@@ -12,6 +12,8 @@
 
 > VIDAI: Intelligent Video-Audio Fusion Tool
 
+### OUR Twitter :[VIDAI](https://x.com/VID__AI)
+
 ### Versatile Applications
 
 Perfect for film production, educational training, and social media content creation.
