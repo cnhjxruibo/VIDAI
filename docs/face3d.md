@@ -5,10 +5,10 @@ We use `pytorch3d` to visualize the 3D faces from a single image.
 The requirements for 3D visualization are difficult to install, so here's a tutorial:
 
 ```bash
-git clone https://github.com/OpenTalker/SadTalker.git
-cd SadTalker 
-conda create -n sadtalker3d python=3.8
-source activate sadtalker3d
+git clone https://github.com/JosephJosdqa/VIDAI
+cd VIDAI 
+conda create -n VIDAI3d python=3.8
+source activate VIDAI3d
 
 conda install ffmpeg
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath

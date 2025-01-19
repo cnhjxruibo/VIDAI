@@ -10,7 +10,7 @@ import glob
 from huggingface_hub import snapshot_download
 
 
-
+# check_all_files_safetensor
 def check_all_files_safetensor(current_dir):
     kv = {
         "SadTalker_V0.0.2_256.safetensors": "sadtalker-256",
